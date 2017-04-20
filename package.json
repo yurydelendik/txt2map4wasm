@@ -1,0 +1,23 @@
+{
+  "name": "txt2map4wasm",
+  "version": "1.0.2",
+  "description": "Translates wasm text source map to JSON map",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "bin": {
+    "txt2map4wasm": "./cli.js"
+  },
+  "keywords": [],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/yurydelendik/txt2map4wasm.git"
+  },
+  "author": "Yury Delendik",
+  "license": "Apache-2.0",
+  "dependencies": {
+    "source-map": "^0.5.6",
+    "yargs": "^7.1.0"
+  }
+}

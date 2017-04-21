@@ -12,12 +12,17 @@
   "keywords": [],
   "repository": {
     "type": "git",
-    "url": "https://github.com/yurydelendik/txt2map4wasm.git"
+    "url": "git+https://github.com/yurydelendik/txt2map4wasm.git"
   },
   "author": "Yury Delendik",
   "license": "Apache-2.0",
   "dependencies": {
     "source-map": "^0.5.6",
     "yargs": "^7.1.0"
-  }
+  },
+  "bugs": {
+    "url": "https://github.com/yurydelendik/txt2map4wasm/issues"
+  },
+  "homepage": "https://github.com/yurydelendik/txt2map4wasm#readme",
+  "devDependencies": {}
 }

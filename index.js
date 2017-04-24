@@ -24,7 +24,7 @@ module.exports = function (txt, opt) {
       return;
     var offset = +parts[0];
     var file = parts[1];
-    var line = ++parts[2];
+    var line = +parts[2];
 
     map.addMapping({
       generated: {

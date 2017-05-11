@@ -1,6 +1,6 @@
 {
   "name": "txt2map4wasm",
-  "version": "1.0.3",
+  "version": "1.1.0",
   "description": "Translates wasm text source map to JSON map",
   "main": "index.js",
   "scripts": {

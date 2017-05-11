@@ -28,8 +28,8 @@ module.exports = function (txt, opt) {
 
     map.addMapping({
       generated: {
-        line: offset,
-        column: 0
+        line: 1,
+        column: offset
       },
       source: file,
       original: {
